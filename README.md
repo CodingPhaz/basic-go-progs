@@ -1,1 +1,1 @@
-# My begin with GO lang
+# Go weather CLI application
